@@ -1,7 +1,10 @@
 # 源码地址
 [github源码地址](https://github.com/ustbhuangyi/vue-sell)
+
 放在最上边，感谢作者的辛苦，学到了很多东西,当然我写的这个与源码肯定有地方不同，不然就不叫开发叫复制粘贴了
+
 [基本和这个一样](http://vuejssellapp.t.imooc.io/#!/)
+
 ![二维码](http://static.galileo.xiaojukeji.com/static/tms/8btyrxfwosv6ht2whlut3j0mgwr84nkp.png)
 # vue-sell
 Vue.js 高仿饿了么外卖 App
