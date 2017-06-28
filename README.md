@@ -28,4 +28,7 @@ node.js（个人认为前端必学）
 # 学习笔记
 我会将学习中学到的一些东西整理写到博客，不喜勿喷
 # 截图
-![预览图](./img.jpg)
+![预览图](http://orfd0ppp9.bkt.clouddn.com/vue-sellimg.jpg)
+![预览图](http://orfd0ppp9.bkt.clouddn.com/vue-sellimg1.jpg)
+![预览图](http://orfd0ppp9.bkt.clouddn.com/vue-sellimg2.jpg)
+![预览图](http://orfd0ppp9.bkt.clouddn.com/vue-sellimg3.jpg)
