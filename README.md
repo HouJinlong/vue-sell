@@ -20,7 +20,7 @@ Vue.js 高仿饿了么外卖 App
 vue.js、
 vue-cli脚手架、
 vue-router、
-axios交互(学vue的时候用的是vue-router但用的时候换了它，毕竟交互本质，想多熟悉熟悉新东西)、
+axios交互(学vue的时候用的是vue-resource但用的时候换了它，毕竟交互本质一样，想多熟悉熟悉新东西)、
 webpack、
 es6、
 Stylus、
