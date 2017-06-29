@@ -16,6 +16,7 @@ Vue.js 高仿饿了么外卖 App
   2. node prod.server.js (或者下载依赖)
   
   3. 查看 9000端口 （npm run dev 跑起来 查看8080端口）
+【当切换手机调试模式时，先刷新一下页面】
 # 技术栈
 vue.js、
 vue-cli脚手架、
